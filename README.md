@@ -13,3 +13,6 @@ We want to make a site that sell gym supplies and offers private online coaching
 
 
 BOBIN STEFAN , PIELEANU MIRCEA-ADRIAN, ROSCIUC VASILE-VLAD
+
+Market Research Persona:
+![image](https://github.com/mircea555/StayFit/assets/161495039/8a0ab854-c743-4b16-aa8c-5844355f1c1d)
