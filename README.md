@@ -18,3 +18,11 @@ Market Research Persona:
 
 
 ![image](https://github.com/mircea555/StayFit/assets/161495039/8a0ab854-c743-4b16-aa8c-5844355f1c1d)
+
+
+
+Figma Mock-up:
+https://www.figma.com/file/uNQ8eJFxI4LzDhRGdUo07K/StayFit2?type=design&node-id=0-1&mode=design&t=s6OSDCjUabnrLX0E-0
+
+Trello Board:
+https://trello.com/b/DQ7Mzp5E/stayfit
