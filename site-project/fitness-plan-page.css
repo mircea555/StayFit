@@ -1,0 +1,1190 @@
+.home-icon-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-400);
+  width: 121px;
+  height: 29px;
+}
+.home5 {
+  margin: 0;
+  position: absolute;
+  top: 4px;
+  left: 19px;
+  font-size: inherit;
+  letter-spacing: 0.03em;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 132px;
+  height: 32px;
+  cursor: pointer;
+  z-index: 1;
+}
+.fitness-plan-page-child,
+.home-icon {
+  position: absolute;
+  top: 25px;
+  left: 1px;
+  width: 151px;
+  height: 36px;
+}
+.fitness-plan-page-child {
+  left: 635.5px;
+  width: 254.6px;
+  height: 26px;
+}
+.fitness-plan-page-item,
+.frame-child25 {
+  position: absolute;
+  top: 28.7px;
+  left: 941px;
+  width: 103.2px;
+  height: 21.3px;
+}
+.frame-child25 {
+  top: 0;
+  left: 0;
+  width: 149.1px;
+  height: 25px;
+}
+.about-us9 {
+  margin: 0;
+}
+.about-us8 {
+  margin: 0;
+  position: absolute;
+  top: 2.6px;
+  left: 12.4px;
+  font-size: inherit;
+  letter-spacing: 0.03em;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 185.6px;
+  height: 10.9px;
+  z-index: 1;
+}
+.vector-parent9 {
+  align-self: stretch;
+  height: 25px;
+  position: relative;
+  cursor: pointer;
+}
+.frame-wrapper14 {
+  width: 198px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-6xl) 0 0;
+  box-sizing: border-box;
+}
+.frame-child26 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 172.8px;
+  height: 24px;
+}
+.products9 {
+  margin: 0;
+}
+.products8 {
+  margin: 0;
+  position: absolute;
+  top: 1.4px;
+  left: 14.4px;
+  font-size: inherit;
+  letter-spacing: 0.03em;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 188.6px;
+  height: 10.6px;
+  z-index: 1;
+}
+.vector-parent10 {
+  width: 223px;
+  height: 24px;
+  position: relative;
+  cursor: pointer;
+}
+.frame-wrapper15 {
+  width: 246px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 27px 0 0;
+  box-sizing: border-box;
+}
+.fitness-plan4,
+.login4 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.03em;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: 1de1738;
+  z-index: 1;
+}
+.fitness-plan4 {
+  height: 11.4px;
+  flex: 1;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.login4 {
+  height: 14.7px;
+  width: 121.2px;
+  cursor: pointer;
+}
+.basic-subscription,
+.fitness-plan-group {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.fitness-plan-group {
+  width: 462px;
+  flex-direction: row;
+  padding: 0 var(--padding-xl) 0 0;
+  gap: 36.8px;
+}
+.basic-subscription {
+  height: 42.7px;
+  flex-direction: column;
+  padding: 27.6px 0 0;
+}
+.daily-program-icon {
+  height: 158px;
+  width: 150px;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.fitness-plan-name-inner,
+.frame-parent14 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent14 {
+  width: 1291px;
+  gap: 15px;
+  max-width: 111%;
+  flex-shrink: 0;
+  text-align: justify;
+  font-size: var(--font-size-3xl);
+  color: var(--color-brown);
+  font-family: var(--font-press-start-2p);
+}
+.fitness-plan-name-inner {
+  width: 1191px;
+  padding: 0 var(--padding-xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.pricing1 {
+  margin: 0;
+  width: 111px;
+  height: 28px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.our-list-packages {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 48px;
+  font-weight: 700;
+  font-family: var(--font-urbanist);
+  color: var(--color-white);
+  text-align: center;
+}
+.list-packages {
+  width: 517px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  max-width: 100%;
+}
+.billed-montly {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: #eee;
+  text-align: left;
+  display: inline-block;
+  min-width: 102px;
+}
+.subscribe,
+.subscribe1 {
+  border-radius: var(--br-xs);
+}
+.subscribe {
+  cursor: pointer;
+  border: 0;
+  padding: 11px var(--padding-5xl);
+  background-color: var(--color-gray-500);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.subscribe:hover {
+  background-color: var(--color-darkslategray-100);
+}
+.subscribe1 {
+  height: 46px;
+  flex: 1;
+}
+.register-now-button {
+  width: 336px;
+  border-radius: 14px;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-xs);
+  box-sizing: border-box;
+  gap: var(--gap-base);
+  max-width: 100%;
+}
+.basic-package,
+.discounts-at-all {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 127px;
+}
+.discounts-at-all {
+  min-width: 83px;
+  white-space: nowrap;
+}
+.per-monthbill-annualy {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.pro-subscription {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-37xl);
+  color: var(--color-white);
+}
+.check-list-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.discount-at-all {
+  position: relative;
+  font-weight: 500;
+}
+.checklist01 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.check-list-icon1 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.monthly-program {
+  position: relative;
+  font-weight: 500;
+}
+.checklist02 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.check-list-icon2 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.nutrition-tracking {
+  position: relative;
+  font-weight: 500;
+}
+.checklist03 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.check-list-icon3 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.x-free-suplement {
+  position: relative;
+  font-weight: 500;
+}
+.checklist031 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.check-list-icon4 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.weekly-diet-chekings {
+  position: relative;
+  font-weight: 500;
+}
+.checklist032 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+  color: var(--color-white);
+}
+.check-list-icon5 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.two-personal-training {
+  position: relative;
+  font-weight: 500;
+}
+.checklist033 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.checklist,
+.daily-program-and-nutrition-tr {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.checklist {
+  gap: var(--gap-base);
+  font-size: var(--font-size-base);
+  color: var(--color-gainsboro-100);
+  font-family: var(--font-poppins);
+}
+.daily-program-and-nutrition-tr {
+  gap: var(--gap-5xl);
+}
+.register-now {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 105px;
+}
+.register-now-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-40xl-5);
+  background-color: var(--color-brown);
+  border-radius: var(--br-xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.register-now-wrapper:hover {
+  background-color: var(--color-indianred);
+}
+.free-supplement-and-weekly-che {
+  border-radius: var(--br-base);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-5xl) var(--padding-9xl);
+  gap: var(--gap-19xl);
+}
+.frame-icon {
+  width: 184.9px;
+  height: 184.9px;
+  margin: 0 !important;
+  position: absolute;
+  top: -42.4px;
+  right: -43.7px;
+  object-fit: contain;
+}
+.div,
+.mid-package {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 116px;
+}
+.div {
+  min-width: 98px;
+  white-space: nowrap;
+}
+.per-monthbill-annualy1 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-poppins);
+}
+.parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-37xl);
+}
+.check-list {
+  cursor: pointer;
+  margin: 0;
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.discount-at-all1 {
+  position: relative;
+  font-weight: 500;
+}
+.checklist011 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.check-list1 {
+  cursor: pointer;
+  margin: 0;
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.monthly-program1 {
+  position: relative;
+  font-weight: 500;
+}
+.checklist021 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.check-list2 {
+  cursor: pointer;
+  margin: 0;
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.nutrition-tracking1 {
+  position: relative;
+  font-weight: 500;
+}
+.checklist034 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+  color: var(--color-white);
+}
+.check-list3 {
+  cursor: pointer;
+  margin: 0;
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.x-free-suplement1 {
+  position: relative;
+  font-weight: 500;
+}
+.checklist035 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+  color: var(--color-white);
+}
+.check-list4 {
+  cursor: pointer;
+  margin: 0;
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.weekly-diet-chekings1 {
+  position: relative;
+  font-weight: 500;
+}
+.checklist036 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+  color: var(--color-white);
+}
+.check-list5 {
+  cursor: pointer;
+  margin: 0;
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.four-personal-training {
+  position: relative;
+  font-weight: 500;
+}
+.checklist037 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.checklist1,
+.mid-package-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.checklist1 {
+  gap: var(--gap-base);
+  font-size: var(--font-size-base);
+  color: var(--color-gainsboro-100);
+  font-family: var(--font-poppins);
+}
+.mid-package-parent {
+  padding: 0 17px;
+  gap: var(--gap-5xl);
+  z-index: 1;
+}
+.register-now1 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 105px;
+}
+.frame-parent15,
+.register-now-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.register-now-container {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-40xl-5);
+  background-color: var(--color-gray-500);
+  border-radius: var(--br-xs);
+  flex-direction: row;
+  white-space: nowrap;
+}
+.register-now-container:hover {
+  background-color: var(--color-darkslategray-100);
+}
+.frame-parent15 {
+  align-self: stretch;
+  border-radius: var(--br-base);
+  background-color: var(--color-brown);
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 0 0 42.5px var(--padding-15xl);
+  position: relative;
+  gap: 64px;
+  color: var(--color-white);
+}
+.div1,
+.pro-package {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 110px;
+}
+.div1 {
+  min-width: 96px;
+  white-space: nowrap;
+}
+.per-monthbill-annualy2 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-37xl);
+  color: var(--color-white);
+}
+.check-list-icon6 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.discount-at-all2 {
+  position: relative;
+  font-weight: 500;
+}
+.checklist012 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.check-list-icon7 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.daily-program {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 115px;
+}
+.checklist022 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.check-list-icon8 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.nutrition-tracking2 {
+  position: relative;
+  font-weight: 500;
+}
+.checklist038 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.check-list-icon9 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.x-free-suplement2 {
+  position: relative;
+  font-weight: 500;
+}
+.checklist039 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.check-list-icon10 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.daily-diet-chekings {
+  position: relative;
+  font-weight: 500;
+}
+.checklist0310 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.check-list-icon11 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+}
+.max-10-sessions,
+.upon-request-personal {
+  margin: 0;
+}
+.upon-request-personal-container {
+  position: relative;
+  font-weight: 500;
+}
+.checklist0311 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.checklist2,
+.pro-package-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.checklist2 {
+  gap: var(--gap-base);
+  font-size: var(--font-size-base);
+  color: var(--color-gainsboro-100);
+  font-family: var(--font-poppins);
+}
+.pro-package-parent {
+  gap: var(--gap-5xl);
+}
+.register-now2 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 105px;
+}
+.register-now-frame {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-40xl-5);
+  background-color: var(--color-brown);
+  border-radius: var(--br-xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.frame-button:hover,
+.register-now-frame:hover {
+  background-color: var(--color-indianred);
+}
+.frame-parent16 {
+  border-radius: var(--br-base);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-5xl) var(--padding-9xl);
+  gap: var(--gap-19xl);
+}
+.div2,
+.vip-package {
+  position: relative;
+  font-weight: 600;
+  display: inline-block;
+  min-width: 111px;
+}
+.div2 {
+  min-width: 115px;
+  white-space: nowrap;
+}
+.per-monthbill-annualy3 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-poppins);
+  color: var(--color-gray-100);
+}
+.parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--font-size-37xl);
+  color: var(--color-white);
+}
+.check-list-icon12 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.discount-at-all3 {
+  position: relative;
+  font-weight: 500;
+}
+.checklist013 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.check-list-icon13 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.daily-program1 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 115px;
+}
+.checklist023 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.check-list-icon14 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.nutrition-tracking3 {
+  position: relative;
+  font-weight: 500;
+}
+.checklist0312 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.check-list-icon15 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.x-free-suplement3 {
+  position: relative;
+  font-weight: 500;
+}
+.checklist0313 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.check-list-icon16 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.daily-diet-chekings1 {
+  position: relative;
+  font-weight: 500;
+}
+.checklist0314 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.check-list-icon17 {
+  height: 24px;
+  width: 24px;
+  position: relative;
+  min-height: 24px;
+}
+.unlimited-personal-training {
+  position: relative;
+  font-weight: 500;
+}
+.checklist0315 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base);
+}
+.checklist3,
+.vip-package-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.checklist3 {
+  gap: var(--gap-base);
+  font-size: var(--font-size-base);
+  color: var(--color-gainsboro-100);
+  font-family: var(--font-poppins);
+}
+.vip-package-parent {
+  gap: var(--gap-5xl);
+}
+.register-now3 {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  min-width: 105px;
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-40xl-5);
+  background-color: var(--color-brown);
+  border-radius: var(--br-xs);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.free-supplement-and-weekly-che1 {
+  border-radius: var(--br-base);
+  background-color: var(--color-gray-300);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-5xl) var(--padding-9xl);
+  gap: var(--gap-19xl);
+}
+.monthly-program-and-nutrition,
+.pricing {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  text-align: left;
+  color: var(--color-brown);
+}
+.monthly-program-and-nutrition {
+  width: 1455px;
+  height: 600px;
+  overflow-x: auto;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-5xs);
+  box-sizing: border-box;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-urbanist);
+}
+.pricing {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+  max-width: 123%;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-poppins);
+}
+.fitness-plan-name,
+.price {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+}
+.price {
+  width: 1179px;
+  background-color: var(--color-gray-500);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-8xs-5) 0;
+  box-sizing: border-box;
+}
+.fitness-plan-name {
+  position: absolute;
+  top: 0;
+  left: 140px;
+  width: 1300px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.contact-us1,
+.frame-child27 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 251px;
+  height: 32px;
+}
+.contact-us1 {
+  top: 3px;
+  left: 14px;
+  font-size: var(--font-size-3xl);
+  letter-spacing: 0.03em;
+  font-family: var(--font-press-start-2p);
+  color: var(--color-brown);
+  text-align: justify;
+  display: inline-block;
+  width: 295px;
+  height: 22px;
+  z-index: 1;
+}
+.vector-parent11 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 992px;
+  left: 1131px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 309px;
+  height: 32px;
+  z-index: 1;
+}
+.fitness-plan-page {
+  width: 100%;
+  height: 1024px;
+  position: relative;
+  background-color: var(--color-gray-400);
+  overflow: hidden;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: justify;
+  font-size: var(--font-size-3xl);
+  color: var(--color-brown);
+  font-family: var(--font-press-start-2p);
+}
+@media screen and (max-width: 1050px) {
+  .fitness-plan-group {
+    display: none;
+  }
+}
+@media screen and (max-width: 750px) {
+  .our-list-packages {
+    font-size: var(--font-size-19xl);
+  }
+  .discounts-at-all,
+  .div,
+  .div1,
+  .div2 {
+    font-size: var(--font-size-26xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .home5 {
+    font-size: var(--font-size-lg);
+  }
+  .pricing1 {
+    font-size: var(--font-size-xl);
+  }
+  .our-list-packages {
+    font-size: 29px;
+  }
+  .register-now-button,
+  .subscribe {
+    width: calc(100% - 40px);
+  }
+  .basic-package {
+    font-size: var(--font-size-base);
+  }
+  .discounts-at-all {
+    font-size: var(--font-size-15xl);
+  }
+  .free-supplement-and-weekly-che {
+    width: calc(100% - 40px);
+  }
+  .mid-package {
+    font-size: var(--font-size-base);
+  }
+  .div {
+    font-size: var(--font-size-15xl);
+  }
+  .frame-parent15 {
+    width: calc(100% - 40px);
+  }
+  .pro-package {
+    font-size: var(--font-size-base);
+  }
+  .div1 {
+    font-size: var(--font-size-15xl);
+  }
+  .frame-parent16 {
+    width: calc(100% - 40px);
+  }
+  .vip-package {
+    font-size: var(--font-size-base);
+  }
+  .div2 {
+    font-size: var(--font-size-15xl);
+  }
+  .free-supplement-and-weekly-che1 {
+    width: calc(100% - 40px);
+  }
+  .contact-us1 {
+    font-size: var(--font-size-lg);
+  }
+}
