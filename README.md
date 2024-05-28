@@ -12,7 +12,7 @@ We want to make a site that sell gym supplies and offers private online coaching
 
 
 
-BOBIN STEFAN , PIELEANU MIRCEA-ADRIAN, ROSCIUC VASILE-VLAD
+BOBIN STEFAN, PIELEANU MIRCEA-ADRIAN, ROSCIUC VASILE-VLAD
 
 Market Research Persona:
 
